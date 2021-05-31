@@ -1,2 +1,23 @@
-# collor-flipper
-Interactive webpage that shows colors palette by name and or Hex codes!
+# Collor Fliper
+
+---
+
+## Description
+
+The Color Flipper it's an interactive webpage developed with Vanilla JavaScript, HTML 5, and CSS3.
+
+Through this project, my main goal was to practice my acquired knowledge in Vanilla JS, using solutions as DOM manipulation: every time the user clicks on the button to get his new colors random colors(functions + addEventListener), the function will search in the colors collection (defined and storage as an Array previously).
+
+### Technologies
+
+- HTML5:
+- CSS;
+- Vanilla JavasScript
+
+---
+
+## License
+
+MIT License
+
+---
