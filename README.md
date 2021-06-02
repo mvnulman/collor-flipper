@@ -1,4 +1,4 @@
-# Collor Fliper
+# Color Flipper
 
 ![chrome-capture](https://user-images.githubusercontent.com/63374582/120241210-eccb4b00-c26a-11eb-9e12-1d7c79340af6.gif)
 
