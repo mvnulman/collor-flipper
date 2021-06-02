@@ -13,7 +13,7 @@ Through this project, my main goal was to practice my acquired knowledge in Vani
 
 - HTML5:
 - CSS;
-- Vanilla JavasScript
+- Vanilla JavaScript
 
 ---
 
